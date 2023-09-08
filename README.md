@@ -47,6 +47,7 @@ Palette: Rose-Pine
 # Common shortcuts used 
 | Name | keybind |
 | --- | --- |
+|Alacritty | super + return ("enter") |
 |launcher | super |
 | Firefox | super + w (desktop 1) |
 | Thunar | super + f (desktop 2) |
@@ -56,7 +57,7 @@ Palette: Rose-Pine
 | Screenshot | super + shift + s |
 | Bluetooth | super + shift + b |
 
-..... for all the keybind check out  ``` ~/Documents/config/bspwm/sxhkdrc ```
+..... for all the keybind check out  ``` ~/config/bspwm/sxhkdrc ```
 
 
 # credits!
