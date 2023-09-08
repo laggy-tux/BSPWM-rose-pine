@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="200" src="https://github.com/laggy-tux/BSPWM-rose-pine/assets/85402808/016c066f-38f9-4319-a467-88cb082ef1fe" 
+    <img width="1000" src="https://github.com/laggy-tux/BSPWM-rose-pine/assets/85402808/016c066f-38f9-4319-a467-88cb082ef1fe" 
 </p>
 
 my bspwm configs for Arch* :)
