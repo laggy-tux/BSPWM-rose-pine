@@ -1,6 +1,8 @@
 # BSPWM rose-pine configs!
 my bspwm configs for Arch* :)
 
+credit where due.. all the credit go the OC's of the various resources used in the dots :)
+
 ```ocaml
 Details:
 
@@ -21,7 +23,7 @@ text editor: geany
 Palette: Rose-Pine
 ```
 
-## grab the GTK frome [here](https://github.com/rose-pine/gtk)
+## grab the GTK from [here](https://github.com/rose-pine/gtk)
 
 # Screenshots
 
