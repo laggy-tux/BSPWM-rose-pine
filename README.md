@@ -4,7 +4,7 @@
 
 
 ```ocaml
-**Details:**
+Details:
 
 OS: Archcraft
 
