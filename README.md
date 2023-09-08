@@ -14,13 +14,13 @@ GTK: rose-pine
 
 Terminal: Alacritty
 
-top-bar: Polybar
+Top-bar: Polybar
 
-notification manager: dunst
+Notification Manager: Dunst
 
-menu: rofi
+Menu: Rofi
 
-text editor: geany
+Text Editor: Geany
 
 Palette: Rose-Pine
 ```
