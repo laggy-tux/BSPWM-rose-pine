@@ -30,7 +30,7 @@ Palette: Rose-Pine
 ```
 # links
 
-| Command | Description |
+| Name | Links |
 | --- | --- |
 | OS | https://archcraft.io/index.html |
 | Polybar | https://github.com/polybar/polybar |
