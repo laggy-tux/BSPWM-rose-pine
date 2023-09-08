@@ -21,6 +21,8 @@ text editor: geany
 Palette: Rose-Pine
 ```
 
+## grab the GTK frome [here](https://github.com/rose-pine/gtk)
+
 # Screenshots
 
 ![smm1u2laa1nb1](https://github.com/laggy-tux/BSPWM-rose-pine/assets/85402808/b13d238f-8fa6-4cb7-a737-ec287db7d399)
