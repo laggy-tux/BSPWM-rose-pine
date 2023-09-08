@@ -59,4 +59,5 @@ Palette: Rose-Pine
 ..... for all the keybind check out  ``` ~/Documents/config/bspwm/sxhkdrc ```
 
 
+# credits!
 credit where due.. all the credit go the OC's of the various resources used in the dots :)
