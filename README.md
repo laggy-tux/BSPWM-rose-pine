@@ -10,7 +10,7 @@ OS: Archcraft
 
 WM: BSPWM
 
-GTK: rose-pine
+GTK: Rose-Pine
 
 Terminal: Alacritty
 
@@ -21,6 +21,8 @@ Notification Manager: Dunst
 Menu: Rofi
 
 Text Editor: Geany
+
+VSCode Theme: Rose-pine
 
 Palette: Rose-Pine
 ```
