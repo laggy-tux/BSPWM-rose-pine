@@ -12,6 +12,8 @@ WM: BSPWM
 
 GTK: rose-pine
 
+Terminal: Alacritty
+
 top-bar: Polybar
 
 notification manager: dunst
