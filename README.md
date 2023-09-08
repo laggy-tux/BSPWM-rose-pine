@@ -24,6 +24,8 @@ Text Editor: Geany
 
 VSCode Theme: Rose-pine
 
+New-Tab Extension: Nighttab 
+
 Palette: Rose-Pine
 ```
 
