@@ -8,6 +8,8 @@ OS: Archcraft
 
 WM: BSPWM
 
+GTK: rose-pine
+
 top-bar: Polybar
 
 notification manager: dunst
