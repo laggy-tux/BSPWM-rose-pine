@@ -28,10 +28,15 @@ New-Tab Extension: Nighttab
 
 Palette: Rose-Pine
 ```
+# links
 
-## grab the GTK from [here!](https://github.com/rose-pine/gtk)
+| OS | https://archcraft.io/index.html |
+| Polybar | https://github.com/polybar/polybar |
+| Rofi | https://github.com/davatorium/rofi |
+| GTK | https://github.com/rose-pine/gtk |
+| CONFIG | https://github.com/laggy-tux/BSPWM-rose-pine/blob/main/config.zip |
 
-## Download the config file from [here!](https://github.com/laggy-tux/BSPWM-rose-pine/blob/main/config.zip)
+
 
 # Screenshots
 
