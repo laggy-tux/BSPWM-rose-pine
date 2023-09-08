@@ -25,7 +25,9 @@ text editor: geany
 Palette: Rose-Pine
 ```
 
-## grab the GTK from [here](https://github.com/rose-pine/gtk)
+## grab the GTK from [here!](https://github.com/rose-pine/gtk)
+
+## Download the config file from [here!](https://github.com/laggy-tux/BSPWM-rose-pine/blob/main/config.zip)
 
 # Screenshots
 
