@@ -1,4 +1,4 @@
-# BSPWM-rose-pine
+# BSPWM rose-pine configs!
 my bspwm configs for Arch* :)
 
 ```ocaml
