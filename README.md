@@ -3,10 +3,6 @@
 </p>
 
 
-my bspwm configs for Arch* :)
-
-credit where due.. all the credit go the OC's of the various resources used in the dots :)
-
 ```ocaml
 Details:
 
@@ -36,3 +32,6 @@ Palette: Rose-Pine
 ![smm1u2laa1nb1](https://github.com/laggy-tux/BSPWM-rose-pine/assets/85402808/b13d238f-8fa6-4cb7-a737-ec287db7d399)
 
 
+
+
+credit where due.. all the credit go the OC's of the various resources used in the dots :)
