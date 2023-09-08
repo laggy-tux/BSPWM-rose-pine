@@ -30,6 +30,7 @@ Palette: Rose-Pine
 ```
 # links
 
+| --- | --- |
 | OS | https://archcraft.io/index.html |
 | Polybar | https://github.com/polybar/polybar |
 | Rofi | https://github.com/davatorium/rofi |
